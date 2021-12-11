@@ -1,6 +1,6 @@
 # crypto-web-scraper
 
-### Selected Language : **English**
+### 🇺🇸 Selected Language : **English**
 
 ## 📖 About
 This project was built meant to generate a simple cryptocurrency report from https://www.marketwatch.com, hope you find it useful and enjoy it! 
@@ -14,7 +14,7 @@ Run [the main class](main.py) and it should generate the report file on the [rep
 * bs4 (BeautifulSoup4)
 * pandas
 
-### Linguagem Selecionada : **Português**
+### 🇧🇷 Linguagem Selecionada : **Português**
 
 ## 📖 Sobre
 Este projeto foi construído para gerar um relatório simples de criptomoedas do site https://www.marketwatch.com, espero que você ache útil!
